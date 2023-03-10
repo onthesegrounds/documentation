@@ -1,2 +1,0 @@
-# Event Record Properties
-
