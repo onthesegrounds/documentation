@@ -6,6 +6,7 @@ An event in which an enslaved person moves from one location to another, often a
 
 * Usage:
 * Rationale:
+* URI: [https://www.onthesegrounds.org/api/items/532](https://www.onthesegrounds.org/api/items/532)
 
 #### Travel: Importation
 
@@ -13,6 +14,7 @@ An event in which an enslaved person of African descent is brought to the Americ
 
 * Usage:
 * Rationale:
+* URI: [https://www.onthesegrounds.org/api/items/533](https://www.onthesegrounds.org/api/items/533)
 
 #### Travel: Relocation
 
@@ -20,6 +22,7 @@ An event in which an enslaved person is transferred from one primary residence t
 
 * Usage:
 * Rationale:
+* URI: [https://www.onthesegrounds.org/api/items/534](https://www.onthesegrounds.org/api/items/534)
 
 #### Travel: Temporary
 
@@ -27,3 +30,4 @@ An event in which an enslaved person moves from one location to another for a fi
 
 * Usage:
 * Rationale:
+* URI: [https://www.onthesegrounds.org/api/items/535](https://www.onthesegrounds.org/api/items/535)
