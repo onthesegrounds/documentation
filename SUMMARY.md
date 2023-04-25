@@ -13,7 +13,10 @@
   * [Description of Transaction Events](ontology/event-record-properties/description-of-transaction-events.md)
   * [Description of Movement Events](ontology/event-record-properties/description-of-movement-events.md)
   * [Description of Health-related Events](ontology/event-record-properties/description-of-health-related-events.md)
-* [Person Record Properties](ontology/person-record-properties.md)
+* [Person Record Properties](ontology/person-record-properties/README.md)
+  * [Description of Person](ontology/person-record-properties/description-of-person.md)
+  * [Description of Family Relationships](ontology/person-record-properties/description-of-family-relationships.md)
+  * [Description of Context](ontology/person-record-properties/description-of-context.md)
 * [Organization Record Properties](ontology/organization-record-properties.md)
 * [Place Record Properties](ontology/place-record-properties.md)
 
