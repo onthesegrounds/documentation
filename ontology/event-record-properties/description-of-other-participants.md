@@ -68,8 +68,8 @@
 * Term: otgevents:parent
 * Equivalent Property: bio:parent
 * Data Type: Omeka S Item
-* Description: A person who is the biological or social child of the primary participant.&#x20;
-* Usage: This person should be present at the event being described. For relationships not directly tied to the event, use the Parent Of property in the Person Record.
+* Description: A person who is the biological or social parent of the primary participant.&#x20;
+* Usage: This person should be present at the event being described. For relationships not directly tied to the event, use the Child Of property in the Person Record.
 * Input: Multiple
 
 #### **Child**
@@ -77,8 +77,8 @@
 * Term: otgevents:child
 * Equivalent Property: bio:child
 * Data Type: Omeka S Item
-* Description: A person who is the biological or social parent of the primary participant.&#x20;
-* Usage: This person should be present at the event being described. For relationships not directly tied to the event, use the Child Of property in the Person Record.
+* Description: A person who is the biological or social child of the primary participant.&#x20;
+* Usage: This person should be present at the event being described. For relationships not directly tied to the event, use the Parent Of property in the Person Record.
 * Input: Multiple
 
 #### **Grandparent**
@@ -86,7 +86,7 @@
 * Term: otgevents:grandparent
 * Equivalent property:
 * Data Type: Omeka S Item
-* Description: A person who is the child of the primary participant’s child.
+* Description: A person who is the parent of the primary participant’s parent.
 * Usage: This person should be present at the event being described. For relationships not directly tied to the event, use the Grandparent Of property in the Person Record.
 * Input: Multiple
 

@@ -1,11 +1,29 @@
 # Description of Family Relationships
 
+#### **Child Of**
+
+* Term: otgevents:childOf
+* Equivalent Property: rel:childOf
+* Data Type: Omeka S Item
+* Description: A person who is the biological or social parent of the person being described.
+* Usage:
+* Input: Multiple
+
 #### **Parent Of**
 
 * Term: otgevents:parentOf
 * Equivalent Property: rel:parentOf
 * Data Type: Omeka S Item
 * Description: A person who is the biological or social child of the person being described.
+* Usage:
+* Input: Multiple
+
+#### **Grandchild Of**
+
+* Term: otgevents:grandchildOf
+* Equivalent Property: rel:grandchildOf
+* Data Type: Omeka S Item
+* Description: A person who is the parent of the person being described’s parent.
 * Usage:
 * Input: Multiple
 
