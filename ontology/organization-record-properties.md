@@ -29,6 +29,15 @@
 * Usage:
 * Input: Multiple
 
+#### Keywords
+
+* Term: otgevents:keywords
+* Equivalent property: schema:keywords
+* Data type: Text&#x20;
+* Description: Keywords to further specify the entity being described.&#x20;
+* Usages: Use one input for each word, rather than a comma-separated string.
+* Input: Multiple
+
 #### **Identifier**
 
 * Term: otgevents:identifier
@@ -36,6 +45,15 @@
 * Data Type: Text
 * Description: An unambiguous reference to the resource within a given context.
 * Usage: Developed internally by institutions to ease searching and location of organizations.
+* Input: Multiple
+
+#### Relation
+
+* Term :otgevents:relation
+* Equivalent property: dcterms:relation
+* Data type: Omeka S Item or URI
+* Description: A related resource
+* Usage:&#x20;
 * Input: Multiple
 
 #### **Same As**

@@ -18,6 +18,15 @@
 * Usage:
 * Input: Multiple
 
+#### Identifier
+
+* Term: otgevents:identifier
+* Equivalent Property: dcterms:identifier
+* Data Type: Text
+* Description: An unambiguous reference to the resource within a given context.
+* Usage: Developed internally by institutions to ease searching and location of places.
+* Input: Multiple
+
 #### **Event Type (required)**
 
 * Term: otgevents:type
@@ -106,4 +115,13 @@
 * Data type: Omeka S Item or URI
 * Description: An event that is related to the one being described.
 * Usage:
+* Input: Multiple
+
+#### Relation
+
+* Term :otgevents:relation
+* Equivalent property: dcterms:relation
+* Data type: Omeka S Item or URI
+* Description: A related resource
+* Usage:&#x20;
 * Input: Multiple

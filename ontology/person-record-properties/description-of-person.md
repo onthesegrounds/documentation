@@ -49,7 +49,7 @@
 
 * Term: otgevents:birthDate
 * Equivalent Property: schema:birthDate
-* Data Type: Date or Text
+* Data Type: Timestamp or Text
 * Description: Date of birth.
 * Usage: Be as specific as possible, using the finest grained date specifier available from day to month to year.
 * Input: Single
@@ -58,7 +58,7 @@
 
 * Term: otgevents:deathDate
 * Equivalent Property: schema:deathDate
-* Data Type: Date or Text
+* Data Type: Timespace or Text
 * Description: Date of death.
 * Usage: Be as specific as possible, using the finest grained date specifier available from day to month to year.
 * Input: Single
@@ -89,3 +89,13 @@
 * Description: Narrative description and/or transcription of the entity.
 * Usage: This field may include information about disambiguation.
 * Input: Multiple
+
+#### Keywords
+
+* Term: otgevents:keywords
+* Equivalent property: schema:keywords
+* Data type: Text&#x20;
+* Description: Keywords to further specify the entity being described.&#x20;
+* Usages: Use one input for each word, rather than a comma-separated string.
+* Input: Multiple
+

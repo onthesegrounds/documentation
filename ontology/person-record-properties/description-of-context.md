@@ -35,6 +35,15 @@
 * Usage: Omeka S Item or URI are preferred data types.
 * Input: Multiple
 
+#### Relation
+
+* Term :otgevents:relation
+* Equivalent property: dcterms:relation
+* Data type: Omeka S Item or URI
+* Description: A related resource
+* Usage:&#x20;
+* Input: Multiple
+
 #### **Same As**
 
 * Term: otgevents:sameAs

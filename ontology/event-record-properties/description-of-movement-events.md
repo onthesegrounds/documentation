@@ -7,7 +7,7 @@
 * Data type: Omeka S Item or URI or Text
 * Description: The point of completion for a travel event.
 * Usage:
-* Input: Single
+* Input: Multiple
 
 #### **Origin**
 

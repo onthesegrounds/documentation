@@ -51,7 +51,7 @@
 * Equivalent property: schema:seller
 * Data type: Omeka S Item or Text or URI
 * Description: The seller in a transaction.&#x20;
-* Usage: May be the same as Owner. Omeka S Item or URI are preferred data types.
+* Usage: May be the same as Enslaver. Omeka S Item or URI are preferred data types.
 * Input: Multiple
 
 #### **Hirer**
