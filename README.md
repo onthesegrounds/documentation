@@ -9,4 +9,4 @@ The [On These Grounds](https://onthesegrounds.org/) descriptive model is designe
 
 In addition to the record types, the model also includes a set of controlled vocabularies to standardize the classification of events and to facilitate searching and browsing of records. The descriptive model has been designed to optimize interoperability with the [Enslaved project](https://enslaved.org/).
 
-Currently the model has a release candidate for [v1.0](https://github.com/onthesegrounds/vocabularies/releases/tag/v1.0-rc).
+The current version of the model is [v.1.1](https://github.com/onthesegrounds/vocabularies/releases/tag/v1.1).
